@@ -4,6 +4,8 @@ The **THE CUBE, SAVE US Mod Menu** is a next-generation modification hub that le
 
 Whether you want to explore maps with full visibility, fine-tune energy regeneration, or build cinematic fights using slow-motion effects — this Mod Menu gives you total command in one interactive dashboard.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://the-cube-save-us-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
